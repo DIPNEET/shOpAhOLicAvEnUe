@@ -1,8 +1,8 @@
 # shOpAhOLicAvEnUe :heart::dancer:
 
-##Idea: Shopaholic Avenue is dynamic website in which person can get all the daily use related stuff such as clothes, phones, furniture, hone appliances.
+### Idea: Shopaholic Avenue is dynamic website in which person can get all the daily use related stuff such as clothes, phones, furniture, hone appliances.
 
-Main Features:
+### Main Features:
  Home Page
  User Authentication
  User Registration
@@ -10,7 +10,7 @@ Main Features:
  Filter Products
  Search a product
 
-Tech Stack:
+### Tech Stack:
  Frontend : JavaScript, HTML, CSS
  Backend : php
  Database: MySQL
