@@ -1,6 +1,7 @@
 # shOpAhOLicAvEnUe :heart::dancer:
 
-### Idea: Shopaholic Avenue is dynamic website in which person can get all the daily use related stuff such as clothes, phones, furniture, hone appliances.
+### Idea: 
+Shopaholic Avenue is dynamic website in which person can get all the daily use related stuff such as clothes, phones, furniture, hone appliances.
 
 ### Main Features:
  Home Page
