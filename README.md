@@ -13,7 +13,9 @@ Shopaholic Avenue is dynamic website in which person can get all the daily use r
 
 ### Tech Stack:
  Frontend : JavaScript, HTML, CSS
+ 
  Backend : php
+ 
  Database: MySQL
  
 
